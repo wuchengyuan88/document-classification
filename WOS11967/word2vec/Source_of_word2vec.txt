@@ -1,0 +1,8 @@
+Downloaded from: http://vectors.nlpl.eu/repository/
+
+Vector size:100	
+Window:10	
+Corpus: English CoNLL17 corpus
+Vocabulary size: 4027169	
+Algorithm: Word2Vec Continuous Skipgram	
+Lemmatization: False
