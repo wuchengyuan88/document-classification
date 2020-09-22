@@ -1,0 +1,11 @@
+Epoch 1/3
+152/152 [==============================] - 6446s 42s/step - loss: 2.4259 - accuracy: 0.3857 - val_loss: 0.8047 - val_accuracy: 0.8134
+Epoch 2/3
+152/152 [==============================] - 6357s 42s/step - loss: 0.6387 - accuracy: 0.8430 - val_loss: 0.6994 - val_accuracy: 0.8254
+Epoch 3/3
+152/152 [==============================] - 5861s 39s/step - loss: 0.4117 - accuracy: 0.8903 - val_loss: 0.6779 - val_accuracy: 0.8282
+38/38 [==============================] - 149s 4s/step - loss: 0.7281 - accuracy: 0.8145
+Test set
+  Loss: 0.728
+  Accuracy: 0.815
+--- 18860.18657398224 seconds ---
